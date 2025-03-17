@@ -6,10 +6,10 @@ This project utilizes various algorithms and machine learning techniques to prov
 ---
 ## Group Members
 
-- Lucas BERNARDEAU
-- Ayemane BOUARBI
-- Matyas GAULT
-- Michaël MUSEUX
+- Lucas
+- Ayemane
+- Matyas
+- Michaël
 
 ---
 ## Project Structure
