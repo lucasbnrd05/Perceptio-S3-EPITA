@@ -147,3 +147,7 @@ You can also use the solver this way:
 ```
 
 Then select the option `RESOLVE`, a picture of the grid you want to solve, press `START` and let the magic happen!
+
+## Our Website
+🔗 [See our landing page](https://lucasbnrd05.github.io/perceptio/index.html)
+
